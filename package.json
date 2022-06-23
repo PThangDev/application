@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "complie:css": "node-sass ./assets/scss/styles.scss ./assets/css/styles.css -w"
+  },
+  "name": "online-tutorials",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
